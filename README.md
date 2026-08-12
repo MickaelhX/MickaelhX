@@ -1,21 +1,55 @@
-### Olá, eu sou o Mickael 👋
+# 👋 Olá, eu sou o Mickael Henrique!
 
-Estudante de Sistemas de Informação, aprendendo desenvolvimento de software com foco em **Java** e **Programação Orientada a Objetos**.
-
-- 🎓 Em formação em Sistemas de Informação
-- 💻 Praticando Java: regras de negócio, validação de estado e organização em pacotes
-- 📌 Confira o projeto fixado abaixo para ver código comentado e explicado
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/mickael-henrique-ab5548374/) · mickaelhenriquexsilva@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mickaelhenriquexsilva@gmail.com)
 
 ---
 
-**Tecnologias que estou estudando**
+## 🧑‍💻 Sobre mim
+
+- 🎓 Cursando **Sistemas de Informação**
+- ☕ Estudando **Java** com foco em **Programação Orientada a Objetos**
+- 🧱 Explorando regras de negócio, validação de estado e organização em pacotes
+- 📌 Dá uma olhada no projeto fixado — tem código comentado e explicado passo a passo!
+
+---
+
+## 🛠️ Tecnologias que estou usando
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-📊 **Estatísticas do GitHub**
+## 📊 GitHub Stats
 
-![Mickael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickaelhX&show_icons=true&theme=default)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MickaelhX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelhX&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+---
+
+## 🚀 Projeto em destaque
+
+<a href="https://github.com/MickaelhX/nome-do-projeto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MickaelhX&repo=nome-do-projeto&theme=tokyonight" />
+</a>
+
+> ⚠️ Substitua `nome-do-projeto` pelo nome real do seu repositório fixado!
+
+---
+
+## 📫 Vamos conversar?
+
+- 💼 [LinkedIn](#)
+- ✉️ mickaelhenriquexsilva@gmail.com
+
+---
+
+<p align="center">
+  <i>"Em construção — tijolo por tijolo, classe por classe."</i> 🧱
+</p>
