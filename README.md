@@ -33,16 +33,6 @@
 
 ---
 
-## 🚀 Projeto em destaque
-
-<a href="https://github.com/MickaelhX/nome-do-projeto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MickaelhX&repo=nome-do-projeto&theme=tokyonight" />
-</a>
-
-> ⚠️ Substitua `nome-do-projeto` pelo nome real do seu repositório fixado!
-
----
-
 ## 📫 Vamos conversar?
 
 - 💼 [LinkedIn](#)
